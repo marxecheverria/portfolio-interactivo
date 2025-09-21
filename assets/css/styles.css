@@ -1286,21 +1286,21 @@ body {
 /* Responsive adjustments for tech icons */
 @media (max-width: 768px) {
     .tech-side {
-        width: 180px;
+        width: 160px;
     }
     
     .tech-left {
-        left: 100px;
+        left: 20px;
     }
     
     .tech-right {
-        right: 100px;
+        right: 20px;
     }
     
     .tech-icon {
-        width: 80px;
-        height: 80px;
-        margin: 15px 0;
+        width: 75px;
+        height: 75px;
+        margin: 12px 0;
     }
     
     .icon-svg {
@@ -1311,26 +1311,26 @@ body {
 
 @media (max-width: 480px) {
     .tech-side {
-        width: 150px;
+        width: 120px;
     }
     
     .tech-left {
-        left: 50px;
+        left: 10px;
     }
     
     .tech-right {
-        right: 50px;
+        right: 10px;
     }
     
     .tech-icon {
-        width: 70px;
-        height: 70px;
-        margin: 12px 0;
+        width: 60px;
+        height: 60px;
+        margin: 10px 0;
     }
     
     .icon-svg {
-        width: 45px;
-        height: 45px;
+        width: 40px;
+        height: 40px;
     }
 }
 
